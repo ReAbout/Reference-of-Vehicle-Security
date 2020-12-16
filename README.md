@@ -26,8 +26,8 @@ RVs包括无人机，无人汽车等。
 **Reverse CAN**
 主要从In-Vehicle Infotainment (IVI) apps.和OBD-II dongle apps.进行自动化逆向分析CAN。
 Backward program slicing.
-![197ec2ca2e2a6aab760fd51f718df1a8.png](en-resource://database/4348:1)
-车辆逆向网站：https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki
+![](https://raw.githubusercontent.com/ReAbout/Reference-Vehicle-Security/main/img/2020_1.png?token=ACHGSPLXOZKAMJUZJ3OE3HC73GB3G)    
+车辆逆向网站：https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki     
 - 2020,NDSS,[EASI: Edge-Based Sender Identification on Resource-Constrained Platforms for Automotive Networks](https://www.ndss-symposium.org/ndss-paper/easi-edge-based-sender-identification-on-resource-constrained-platforms-for-automotive-networks/)
 识别CAN bus中的发送者。
 - 2020,S&P, [Automated Reverse Engineering and Privacy Analysis of Modern Cars](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152789)
