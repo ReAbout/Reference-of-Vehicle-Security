@@ -61,7 +61,6 @@ CAN网络识别。
 
 
 ### Survey
- - [智能网联汽车报告 2016](http://beijing.xstore.qihu.com/360report/2016%E6%99%BA%E8%83%BD%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf?response-content-disposition=attachment%3B%20filename%3D2016%E6%99%BA%E8%83%BD%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c45cea910ed26c418079beef529f2f2b%2F20201208%2Fbeijing%2Fs3%2Faws4_request&X-Amz-Date=20201208T001044Z&X-Amz-SignedHeaders=host&X-Amz-Expires=43200&X-Amz-Signature=db283fd770b28437613cd7b20172161aaff69f8f4eec179eac53d15ea06e94e2)   
 - 2019,信息安全学报， [车联网安全综述](http://jcs.iie.ac.cn/xxaqxb/ch/reader/create_pdf.aspx?file_no=20190302&year_id=2019&quarter_id=3&falg=1)
 - [Security and Privacy in the Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/7428337)
 - [Internet of Vehicles: Architecture, Protocols, and Security](https://ieeexplore.ieee.org/abstract/document/7892008)
@@ -70,12 +69,20 @@ CAN网络识别。
 
 
 ### Technology Blog
+- [360 智能网联汽车报告 2019](https://skygo.360.cn/360-skygo-2019-icv-cybersecurity-annual-report/)   
+- [360 智能网联汽车报告 2016](http://beijing.xstore.qihu.com/360report/2016%E6%99%BA%E8%83%BD%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf?response-content-disposition=attachment%3B%20filename%3D2016%E6%99%BA%E8%83%BD%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c45cea910ed26c418079beef529f2f2b%2F20201208%2Fbeijing%2Fs3%2Faws4_request&X-Amz-Date=20201208T001044Z&X-Amz-SignedHeaders=host&X-Amz-Expires=43200&X-Amz-Signature=db283fd770b28437613cd7b20172161aaff69f8f4eec179eac53d15ea06e94e2)   
+- [梅赛德斯-奔驰安全研究报告](https://skygo.360.cn/mercedes-benz-research-report/)   
 - [车联网安全系列——特斯拉 NFC 中继攻击（CVE-2020-15912）](https://www.anquanke.com/post/id/213885)     
 - [腾讯科恩实验室：雷克萨斯汽车安全研究综述报告](https://keenlab.tencent.com/zh/2020/03/30/Tencent-Keen-Security-Lab-Experimental-Security-Assessment-on-Lexus-Cars/)   
 利用蓝牙协议栈漏洞获取shell
 -  [在Tesla Model S上实现Wi-Fi协议栈漏洞的利用](https://keenlab.tencent.com/zh/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/)    
 利用中控wifi协议栈获取shell，渗透汽车内部网络
-- [黑客是如何从T-Box接入车厂内网的？](https://skygo.360.cn/2018/10/16/penetrate-intranet-via-tbox/)    
+- [黑客是如何从T-Box接入车厂内网的？](https://skygo.360.cn/penetrate-intranet-via-tbox/)    
 - https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tesla
+
+### Security Research Team
+
+- 360 SKYGO https://skygo.360.cn/tag/research/
+- KEEN https://keenlab.tencent.com
 
 
