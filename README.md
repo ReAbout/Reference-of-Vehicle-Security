@@ -49,9 +49,9 @@ CAN网络识别。
 - 2018,USENIX Security,[All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems](https://www.usenix.org/conference/usenixsecurity18/presentation/zeng)    
 -  2018,NDSS,[Exposing Congestion Attack on Emerging Connected Vehicle based Traffic Signal Control.](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_01B-2_Chen_paper.pdf)   
 目标：美国运输部（USDOT）赞助的基于CV的交通控制系统 
-- 2011,USENIX Security,[The Phantom Tollbooth: Privacy-Preserving Electronic Toll Collection in the Presence of Driver Collusion](http://static.usenix.org/events/sec11/tech/full_papers/Meiklejohn.pdf)
+- 2011,USENIX Security,[The Phantom Tollbooth: Privacy-Preserving Electronic Toll Collection in the Presence of Driver Collusion](http://static.usenix.org/events/sec11/tech/full_papers/Meiklejohn.pdf)    
 收费站
-- 2010,USENIX Security,[PrETP: Privacy-Preserving Electronic Toll Pricing](http://www.usenix.org/events/sec10/tech/full_papers/Balasch.pdf)
+- 2010,USENIX Security,[PrETP: Privacy-Preserving Electronic Toll Pricing](http://www.usenix.org/events/sec10/tech/full_papers/Balasch.pdf)   
 
 
 ###  Autonomous Driving
