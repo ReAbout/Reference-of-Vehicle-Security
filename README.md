@@ -34,16 +34,16 @@ Backward program slicing.
 提出汽车隐私和安全分析工具AutoCAN，它通过接入车内网络，提取时间序列数据，自动分析汽车所收集的数据。研究结果显示，汽车制造商可以追踪GPS定位系统的位置、乘客人数、他们的体重、门、灯和空调的使用统计数据。还发现了隐藏功能，原始设备制造商嵌入了远程禁用汽车或在司机超速时收到警报的功能。
 - 2019,CCS,[LibreCAN: Automated CAN Message Translator](https://doi.org/10.1145/3319535.3363190)    
 **Reverse CAN**。LibreCAN逆向CAN协议工具。
-- 2019,USENIX Security,[CANvas: Fast and Inexpensive Automotive Network Mapping](https://www.usenix.org/conference/usenixsecurity19/presentation/kulandaivel)   
+- 2019,USENIX Security,[CANvas: Fast and Inexpensive Automotive Network Mapping](https://www.usenix.org/conference/usenixsecurity19/presentation/kulandaivel)     
 CAN网络识别。
-- ,2018, CCS,[Scission: Signal Characteristic-Based Sender Identification and Intrusion Detection in Automotive Networks](https://dl.acm.org/doi/abs/10.1145/3243734.3243751)
-**CAN IDS**。它使用从CAN帧中提取的指纹来实现对发送ecu的识别。
--2017，ACM CCS， [Viden: Attacker Identification on In-Vehicle Networks ](http://secpaper.cn/download?type=pdf&name=1610073715_CCS17_Viden__Attacker_Identification_on_In_Vehicle_Networks)   
-识别攻击ECU。
--2016，ACM CCS，[Error Handling of In-vehicle Networks Makes Them Vulnerable](http://secpaper.cn/download?type=pdf&name=3662890634_CCS16_Error_Handling_of_In_vehicle_Networks_Makes_Them_Vulnerable)   
-**CAN Attack**
+- ,2018, CCS,[Scission: Signal Characteristic-Based Sender Identification and Intrusion Detection in Automotive Networks](https://dl.acm.org/doi/abs/10.1145/3243734.3243751)    
+**CAN IDS**。它使用从CAN帧中提取的指纹来实现对发送ecu的识别。    
+- 2017，ACM CCS， [Viden: Attacker Identification on In-Vehicle Networks ](http://secpaper.cn/download?type=pdf&name=1610073715_CCS17_Viden__Attacker_Identification_on_In_Vehicle_Networks)    
+识别攻击ECU。   
+- 2016，ACM CCS，[Error Handling of In-vehicle Networks Makes Them Vulnerable](http://secpaper.cn/download?type=pdf&name=3662890634_CCS16_Error_Handling_of_In_vehicle_Networks_Makes_Them_Vulnerable)   
+**CAN Attack**   
 - 2016,USENIX Security,[Fingerprinting Electronic Control Units for Vehicle Intrusion Detection](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/cho)   
-**CAN IDS**。基于时钟的入侵检测系统(CIDS)。它测量并利用周期性车内信息的间隔来进行指纹识别ecu。通过递归最小二乘(RLS)算法，将提取的指纹用于构建ECUs时钟行为的基线。基于这一基线，CIDS使用累积和(CUSUM)来检测识别错误中的任何异常偏移，这是入侵的明显迹象。
+**CAN IDS**。基于时钟的入侵检测系统(CIDS)。它测量并利用周期性车内信息的间隔来进行指纹识别ecu。通过递归最小二乘(RLS)算法，将提取的指纹用于构建ECUs时钟行为的基线。基于这一基线，CIDS使用累积和(CUSUM)来检测识别错误中的任何异常偏移，这是入侵的明显迹象。   
 
 ### Roadside(V2R) Security
 - 2018,USENIX Security,[All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems](https://www.usenix.org/conference/usenixsecurity18/presentation/zeng)       
