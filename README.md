@@ -45,6 +45,10 @@ CAN网络识别。
 - 2016,USENIX Security,[Fingerprinting Electronic Control Units for Vehicle Intrusion Detection](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/cho)   
 **CAN IDS**。基于时钟的入侵检测系统(CIDS)。它测量并利用周期性车内信息的间隔来进行指纹识别ecu。通过递归最小二乘(RLS)算法，将提取的指纹用于构建ECUs时钟行为的基线。基于这一基线，CIDS使用累积和(CUSUM)来检测识别错误中的任何异常偏移，这是入侵的明显迹象。   
 
+### V2X Security
+- 2021,USENIX Security,[Automated Discovery of Denial-of-Service Vulnerabilities in Connected Vehicle
+Protocols](https://www.usenix.org/conference/usenixsecurity21/presentation/hu-shengtuo)    
+
 ### Roadside(V2R) Security
 - 2018,USENIX Security,[All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems](https://www.usenix.org/conference/usenixsecurity18/presentation/zeng)       
 -  2018,NDSS,[Exposing Congestion Attack on Emerging Connected Vehicle based Traffic Signal Control.](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_01B-2_Chen_paper.pdf)     
