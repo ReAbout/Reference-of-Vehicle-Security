@@ -36,7 +36,7 @@ Backward program slicing.
 **Reverse CAN**。LibreCAN逆向CAN协议工具。
 - 2019,USENIX Security,[CANvas: Fast and Inexpensive Automotive Network Mapping](https://www.usenix.org/conference/usenixsecurity19/presentation/kulandaivel)     
 CAN网络识别。
-- ,2018, CCS,[Scission: Signal Characteristic-Based Sender Identification and Intrusion Detection in Automotive Networks](https://dl.acm.org/doi/abs/10.1145/3243734.3243751)    
+- 2018, CCS,[Scission: Signal Characteristic-Based Sender Identification and Intrusion Detection in Automotive Networks](https://dl.acm.org/doi/abs/10.1145/3243734.3243751)    
 **CAN IDS**。它使用从CAN帧中提取的指纹来实现对发送ecu的识别。    
 - 2017，ACM CCS， [Viden: Attacker Identification on In-Vehicle Networks ](http://secpaper.cn/download?type=pdf&name=1610073715_CCS17_Viden__Attacker_Identification_on_In_Vehicle_Networks)    
 识别攻击ECU。   
@@ -54,6 +54,9 @@ Connected Vehicle(CV) technology
 对最近发布的基于cvc的应用协议——合作自适应巡航控制(CACC)——进行了详细分析，并利用这种分析对在诸如CV这样的网络物理连接系统的环境中发生的漏洞类型进行了分类。他们用模拟来展示这些攻击，并举例说明导致碰撞或使紧急车辆失速的攻击。
 - 2019,,[A Security Credential Management System for V2X Communications](https://link.springer.com/chapter/10.1007/978-3-319-94785-3_4)   
 - 2018,,[Connected vehicle security vulnerabilities [commentary]](https://ieeexplore.ieee.org/abstract/document/8307141)    
+- 2018,,[Connected Vehicles' Security from the Perspective of the In-Vehicle Network](https://ieeexplore.ieee.org/abstract/document/8370879)   
+- 2018,,[Real-Time Detection and Estimation of Denial of Service Attack in Connected Vehicle Systems](https://ieeexplore.ieee.org/abstract/document/8293801)    
+- 2015,,[Security vulnerabilities of connected vehicle streams and their impact on cooperative driving](https://ieeexplore.ieee.org/abstract/document/7120028)   
 - 2013,ICCPS,[On authentication in a connected vehicle: secure integration of mobile devices with vehicular networks](https://dl.acm.org/doi/abs/10.1145/2502524.2502546)   
 
 ### Roadside(V2R) Security
