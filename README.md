@@ -53,6 +53,8 @@ Connected Vehicle(CV) technology
 - 2019,RAID,[Application level attacks on connected vehicle protocols](https://www.usenix.org/system/files/raid2019-abdo.pdf)     
 对最近发布的基于cvc的应用协议——合作自适应巡航控制(CACC)——进行了详细分析，并利用这种分析对在诸如CV这样的网络物理连接系统的环境中发生的漏洞类型进行了分类。他们用模拟来展示这些攻击，并举例说明导致碰撞或使紧急车辆失速的攻击。
 - 2019,,[A Security Credential Management System for V2X Communications](https://link.springer.com/chapter/10.1007/978-3-319-94785-3_4)   
+- 2018,,[Connected vehicle security vulnerabilities [commentary]](https://ieeexplore.ieee.org/abstract/document/8307141)    
+- 2013,ICCPS,[On authentication in a connected vehicle: secure integration of mobile devices with vehicular networks](https://dl.acm.org/doi/abs/10.1145/2502524.2502546)   
 
 ### Roadside(V2R) Security
 - 2018,USENIX Security,[All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems](https://www.usenix.org/conference/usenixsecurity18/presentation/zeng)       
