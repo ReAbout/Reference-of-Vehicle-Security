@@ -75,7 +75,7 @@ Connected Vehicle(CV) technology
 
 
 ### Survey
-- 2020,,通信学报， [智能网联车网络安全研究综述](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2020130#1)
+- 2020,通信学报， [智能网联车网络安全研究综述](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2020130#1)
 - 2019,信息安全学报， [车联网安全综述](http://jcs.iie.ac.cn/xxaqxb/ch/reader/create_pdf.aspx?file_no=20190302&year_id=2019&quarter_id=3&falg=1)
 - [Security and Privacy in the Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/7428337)
 - 2017,[Internet of Vehicles: Architecture, Protocols, and Security](https://ieeexplore.ieee.org/abstract/document/7892008)
